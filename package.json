@@ -2,6 +2,11 @@
   "name": "devops-nextjs-static-analysis",
   "version": "0.1.0",
   "private": true,
+  "description": "The companion repository for my article Static Analysis, the first step in any application. It uses a NextJS typescript application as an example",
+  "author": "Mark C Allen @markcallen",
+  "homepage": "https://github.com/markcallen/devops-nextjs-static-analysis",
+  "license": "Apache-2.0",
+  "repository": "markcallen/devops-nextjs-static-analysis",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
