@@ -1,6 +1,6 @@
 # devops-nextjs-static-analysis
 
-The companion repository for my article Static Analysis, the first step in any application. It uses a NextJS typescript application as an example
+The companion repository for my article [Static Analysis, the first step in any application](https://medium.com/@markcallen_devops/static-analysis-the-first-step-in-any-application-e8cd6633b5b1). It uses a NextJS typescript application as an example
 of how to setup linting and automation to check the code on every commit and push to a PR.
 
 ## Setup
